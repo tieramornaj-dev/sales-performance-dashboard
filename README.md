@@ -14,9 +14,12 @@ Microsoft Excel 2024 | Power Query | Pivot Tables | Slicers
 1. Cap furniture at 20% to recover an estimated $40K+ in annual profit
 2. Audit Central region pricing and cost structure
 3. Increase investment in Technology sales -- highest margin category
+4. Implement a discount cap policy: No order should exceed 30% discount.Orders above this threshold are consistently unprofitable
+
 
 ## Dashboard Preview
 ![Dashboard] {Dashboard_main.png}
+![Dashboard] {Updated dashboard_main.png}
 
 ## Dataset
 Source: Superstore Sales Dataset {Kaggle} by vivek468
